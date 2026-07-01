@@ -123,5 +123,5 @@ This dashboard enables decision-makers to:
 
 ### Author
 **Prachi Sharma**
-Linkdin:- www.linkedin.com/in/prachi-sharma-11831330b
+www.linkedin.com/in/prachi-sharma-11831330b
 Data Analytics Portfolio Project
