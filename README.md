@@ -136,6 +136,6 @@ The **Retail Sales Performance Dashboard** is an interactive **Power BI** dashbo
 
 📧 Email: prachi2sharma000@egmail.com
 
-🐙 GitHub: https://github.com/Prachisharma1
+🐙 GitHub: https://github.com/Prachisharmaa1/Retail-Sale-Performance
 
 💼 LinkedIn: www.linkedin.com/in/prachi-sharma-11831330b
