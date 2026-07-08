@@ -19,7 +19,7 @@ The **Retail Sales Performance Dashboard** is an interactive **Power BI** dashbo
 
 # 🖼️ Dashboard Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
