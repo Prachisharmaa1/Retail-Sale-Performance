@@ -3,6 +3,7 @@
 ## 📖 Project Overview
 
 The **Retail Sales Performance Dashboard** is an interactive **Microsoft Excel** dashboard designed to analyze retail business performance across various regions, retailers, products, and sales methods. It helps users monitor key performance indicators (KPIs), identify sales trends, evaluate profitability, and gain valuable business insights through interactive charts, Pivot Tables, and slicers. The dashboard supports better decision-making by presenting sales data in a clear and organized visual format.
+
 ---
 
 ## 📊 Key Performance Indicators (KPIs)
